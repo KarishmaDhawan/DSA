@@ -19,6 +19,7 @@ int main(){
     cout<<"Enter the size of array: "<<endl;
     cin>>n;
     int a[n];
+    cout<<"Enter elements of an array : ";
     for(int i=0;i<n;i++){
         cin>>a[i];
     }
